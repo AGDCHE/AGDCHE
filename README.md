@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Eu sou Miguel Alerrandro,Sou um programador Front end em início de carreira,Atualmente estou aprendendo e criando projetos usando:
+Eu sou Miguel Alerrandro,sou um programador Front end em início de carreira,atualmente estou aprendendo e criando projetos usando:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width=70px alt="image-HTML">
 

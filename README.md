@@ -1,15 +1,30 @@
-## Olá 👋
+<h1 align="center">Olá, eu sou o AGDCHE 👋</h1>
 
-Eu sou Miguel Alerrandro,sou um programador Front end em início de carreira,atualmente estou aprendendo e criando projetos usando:
+- 💻 Desenvolvedor focado em Front-end
+- 🚧 Sempre estudando e desenvolvendo projetos próprios e colaborativos
+- 👨‍💻 Buscando oportunidades para atuar em Front-end
+- 📚 Atualmente aprendendo: Node
+- 🤝 Gosto de contribuir com projetos open source e resolver problemas reais
+- 📫 Contato: https//img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width=70px alt="image-HTML">
+---
 
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width=60px alt="image-CSS">
+### ⚡ Tecnologias e ferramentas
 
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="image-JS">
+![Python](https://img.shields.io/badge/-Python-333?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=javascript)
+<!-- Adicione outras techs de acordo com sua stack -->
 
-Fale Comigo:
+---
 
-- <a href="https://www.instagram.com/agdche/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="image-INSTAGRAM"><a/>
+### 📈 Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGDCHE&size_weight=0.5&count_weight=0.5)
+![AGDCHE's github stats](https://github-readme-stats.vercel.app/api?username=AGDCHE&show_icons=true&hide_title=true)
+
+---
+
+**Principais Projetos:**
+
+- [Nome do Projeto 1](link) – Breve descrição do objetivo, tecnologias usadas
+- [Nome do Projeto 2](link) – Breve descrição
+

@@ -5,7 +5,7 @@
 - 👨‍💻 Buscando oportunidades para atuar em Front-end
 - 📚 Atualmente aprendendo: Node
 - 🤝 Gosto de contribuir com projetos open source e resolver problemas reais
-- 📫 Contato: https//img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+- 📫 Contato: (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
